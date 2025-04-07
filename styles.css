@@ -39,6 +39,10 @@ h1 {
     margin-buttom: 67px;
 }
 
+.stars-list {
+    margin:20px;
+}
+
 /* List styling */
 .people-list {
     list-style-type: none;
