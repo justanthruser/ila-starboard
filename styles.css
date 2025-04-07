@@ -35,7 +35,8 @@ h1 {
 .title {
     position: fixed;
     top: 0;
-    border: 3px solid #73AD21;
+    border: 3px solid blue;
+    margin-bottom: 27px;
 }
 
 /* List styling */
