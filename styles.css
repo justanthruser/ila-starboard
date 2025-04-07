@@ -34,7 +34,7 @@ h1 {
 
 .title {
     position: fixed;
-    bottom: 0;
+    top: 0;
     border: 3px solid #73AD21;
 }
 
