@@ -32,6 +32,12 @@ h1 {
     color: #333;
 }
 
+.title {
+    position: fixed;
+    bottom: 0;
+    border: 3px solid #73AD21;
+}
+
 /* List styling */
 .people-list {
     list-style-type: none;
